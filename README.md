@@ -87,6 +87,9 @@ START LEVEL 1
 -> stop 0
 ```
 ## Use this with the following bundles
+The license file for Eclipse Milo is located below.  
+- [milo-example-server/META-INF/LICENSE.md](https://github.com/s5uishida/milo-example-server/blob/master/META-INF/LICENSE.md)
+
 Please check each license for the following bundles used.
 - [SLF4J 1.7.26](https://www.slf4j.org/)
 - [JSR 305 3.0.2](https://mvnrepository.com/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsr305/3.0.2_1)
