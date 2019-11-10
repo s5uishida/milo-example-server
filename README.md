@@ -57,8 +57,8 @@ START LEVEL 1
 [   5] [Active     ] [    1] Gson (2.8.5)
 [   6] [Active     ] [    1] Guava: Google Core Libraries for Java (26.0.0.jre)
 [   7] [Active     ] [    1] JavaBeans Activation Framework (1.2.0)
-[   8] [Active     ] [    1] jaxb-api (2.4.0.b1808300359)
-[   9] [Active     ] [    1] file:/home/pi/milo-example-server-felix/bundle/jaxb-runtime-2.4.0-b180830.0438.jar
+[   8] [Active     ] [    1] jaxb-api (2.3.1)
+[   9] [Active     ] [    1] file:/home/pi/milo-example-server-felix/bundle/jaxb-runtime-2.3.1.jar
 [  10] [Active     ] [    1] milo-example-server (0.3.3)
 [  11] [Active     ] [    1] Netty/Buffer (4.1.38.Final)
 [  12] [Active     ] [    1] netty-channel-fsm-osgi (0.3.0)
