@@ -58,7 +58,7 @@ START LEVEL 1
 [   6] [Active     ] [    1] Guava: Google Core Libraries for Java (26.0.0.jre)
 [   7] [Active     ] [    1] JavaBeans Activation Framework (1.2.0)
 [   8] [Active     ] [    1] jaxb-api (2.3.1)
-[   9] [Active     ] [    1] file:/home/pi/milo-example-server-felix/bundle/jaxb-runtime-2.3.1.jar
+[   9] [Active     ] [    1] file:/home/pi/milo-example-server-felix/bundle/jaxb-runtime-2.3.2.jar
 [  10] [Active     ] [    1] milo-example-server (0.3.3)
 [  11] [Active     ] [    1] Netty/Buffer (4.1.38.Final)
 [  12] [Active     ] [    1] netty-channel-fsm-osgi (0.3.0)
@@ -96,7 +96,7 @@ Please check each license for the following bundles used.
 - [Guava: Google Core Libraries for Java 26.0](https://repo1.maven.org/maven2/com/google/guava/guava/26.0-jre/guava-26.0-jre.jar)
 - [Netty 4.1.38](https://netty.io/index.html) netty-buffer-4.1.38.Final.jar, netty-codec-4.1.38.Final.jar, netty-codec-http-4.1.38.Final.jar, netty-common-4.1.38.Final.jar, netty-handler-4.1.38.Final.jar, netty-resolver-4.1.38.Final.jar, netty-transport-4.1.38.Final.jar
 - [JAXB API 2.3.1](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api/2.3.1)
-- [JAXB Runtime 2.3.1](https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime/2.3.1)
+- [JAXB Runtime 2.3.2](https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime/2.3.2)
 - [JavaBeans Activation Framework (JAF) 1.2.0](https://mvnrepository.com/artifact/com.sun.activation/javax.activation/1.2.0)
 - [strict-machine-osgi 0.1](https://github.com/s5uishida/strict-machine-osgi)
 - [netty-channel-fsm-osgi 0.3](https://github.com/s5uishida/netty-channel-fsm-osgi)
