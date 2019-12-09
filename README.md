@@ -40,12 +40,7 @@ Edit the default values for the following properties by uncommenting them as nec
   Start milo-example-server as follows.
 ```
 # cd /path/to/milo-example-server-felix/bin
-# sh server-start.sh 
-WARNING: An illegal reflective access operation has occurred
-WARNING: Illegal reflective access by org.apache.felix.framework.ext.ClassPathExtenderFactory$DefaultClassLoaderExtender (file:/path/to/milo-example-server-felix/bin/felix.jar) to method java.net.URLClassLoader.addURL(java.net.URL)
-WARNING: Please consider reporting this to the maintainers of org.apache.felix.framework.ext.ClassPathExtenderFactory$DefaultClassLoaderExtender
-WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
-WARNING: All illegal access operations will be denied in a future release
+# sh server-start.sh
 -> ps
 START LEVEL 1
    ID   State         Level  Name
